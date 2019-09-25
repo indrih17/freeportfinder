@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FreePortFinderTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-09-25T17:03:24" hostname="kirill-MS-7756" time="0.281">
+  <properties/>
+  <testcase name="overTheLimitPortAllocationShouldFail()" classname="FreePortFinderTest" time="0.082"/>
+  <testcase name="canBindToMultipleHostsToFoundPort()" classname="FreePortFinderTest" time="0.021"/>
+  <testcase name="canBindToMultipleHostsMultipleAllocations()" classname="FreePortFinderTest" time="0.169"/>
+  <testcase name="canBindToFoundPort()" classname="FreePortFinderTest" time="0.003"/>
+  <testcase name="canBindToLocalHostToFoundPort()" classname="FreePortFinderTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
